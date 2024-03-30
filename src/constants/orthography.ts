@@ -28,6 +28,7 @@ export const ORTHOGRAPHY = [
   'ž',
   'ä',
   'ö',
+  'ь',
 ]
 
 if (CONFIG.normalization) {
