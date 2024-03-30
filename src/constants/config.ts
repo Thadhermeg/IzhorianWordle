@@ -15,4 +15,5 @@ export const CONFIG = {
     startDate: 'March 30, 2024 00:00:00',
     defaultLang: 'en',
     availableLangs: ['en'],
+	escapeSpecialCharacters: true, // whether to escape all characters in the orthography.
 }
