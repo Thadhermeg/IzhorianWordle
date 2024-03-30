@@ -1,7 +1,7 @@
 {
     "name": "IzhorianWordle",
     "version": "0.1.0",
-    "homepage": "https://Thadhermeg.github.io/IzhorianWordle",
+    "homepage": "https://thadhermeg.github.io/IzhorianWordle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
