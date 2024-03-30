@@ -9,11 +9,11 @@ export const CONFIG = {
     //
     // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
     //
-    googleAnalytics: "",
+    googleAnalytics: '',
     shuffle: true,
-    normalization: 'NFC',
+    normalization: 'NFD',
     startDate: 'March 30, 2024 00:00:00',
     defaultLang: 'en',
     availableLangs: ['en'],
-	escapeSpecialCharacters: true, // whether to escape all characters in the orthography.
+	escapeSpecialCharacters: false, // whether to escape all characters in the orthography.
 }
