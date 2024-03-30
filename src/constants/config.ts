@@ -11,7 +11,7 @@ export const CONFIG = {
     //
     googleAnalytics: "",
     shuffle: true,
-    normalization: false,
+    normalization: 'NFC',
     startDate: 'March 30, 2024 00:00:00',
     defaultLang: 'en',
     availableLangs: ['en'],
